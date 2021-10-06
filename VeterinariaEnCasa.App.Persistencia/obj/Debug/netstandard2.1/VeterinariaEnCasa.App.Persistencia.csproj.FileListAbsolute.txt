@@ -1,0 +1,12 @@
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\bin\Debug\netstandard2.1\VeterinariaEnCasa.App.Persistencia.deps.json
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\bin\Debug\netstandard2.1\VeterinariaEnCasa.App.Persistencia.dll
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\bin\Debug\netstandard2.1\VeterinariaEnCasa.App.Persistencia.pdb
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Persistencia.csprojAssemblyReference.cache
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Persistencia.AssemblyInfo.cs
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Persistencia.dll
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Persistencia.pdb
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\bin\Debug\netstandard2.1\VeterinariaEnCasa.App.Dominio.dll
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\bin\Debug\netstandard2.1\VeterinariaEnCasa.App.Dominio.pdb
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Persistencia.csproj.CopyComplete

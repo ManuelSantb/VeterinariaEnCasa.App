@@ -1,0 +1,9 @@
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Dominio\bin\Debug\netstandard2.1\VeterinariaEnCasa.App.Dominio.deps.json
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Dominio\bin\Debug\netstandard2.1\VeterinariaEnCasa.App.Dominio.dll
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Dominio\bin\Debug\netstandard2.1\VeterinariaEnCasa.App.Dominio.pdb
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Dominio\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Dominio.csprojAssemblyReference.cache
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Dominio\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Dominio\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Dominio.AssemblyInfo.cs
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Dominio\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Dominio\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Dominio.dll
+C:\VeterinariaEnCasa\VeterinariaEnCasa.App\VeterinariaEnCasa.App.Dominio\obj\Debug\netstandard2.1\VeterinariaEnCasa.App.Dominio.pdb
